@@ -3,3 +3,4 @@
 *.mat
 .ipynb_checkpoints
 *.docx
+*.h5
